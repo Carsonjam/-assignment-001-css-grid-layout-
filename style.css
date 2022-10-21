@@ -9,7 +9,7 @@
         "footer footer footer"
     ;
     column-gap: 10px;
-    row-gap: 3px;
+    row-gap: 10px;
     text-align: center;
     
     
@@ -25,14 +25,14 @@ header{
 .leftsidebar{
     background-color: #7fc242;
     grid-area: leftsidebar;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
     
 }
 main{
     background-color: #8bf10a;
     grid-area: main;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
 }
 .rightsidebar{
